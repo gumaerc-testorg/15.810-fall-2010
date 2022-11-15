@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: 'This section contains the case assignments for the course and associated
+  discussion questions. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Studies
 uid: bf1d5614-3904-28fa-4114-ee613f799ea6
 ---
 
-Cases will be discussed in class. The discussion questions below are provided to guide assigned case readings. A group case analysis write-up is required for the Sonance case, and details can be found in the [assignments]({{< baseurl >}}/pages/assignments) section of this course.
+Cases will be discussed in class. The discussion questions below are provided to guide assigned case readings. A group case analysis write-up is required for the Sonance case, and details can be found in the {{% resource_link ed13ee57-f245-c187-8b9a-a803d649c834 "assignments" %}} section of this course.
 
 {{< tableopen >}}
 {{< theadopen >}}
