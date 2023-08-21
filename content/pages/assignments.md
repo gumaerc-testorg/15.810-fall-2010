@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on a case analysis assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
