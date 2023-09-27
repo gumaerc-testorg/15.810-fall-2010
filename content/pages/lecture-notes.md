@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with slides
+  from select lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -39,7 +41,7 @@ LECTURE NOTES
 Introduction and company analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_810f10_lec01))
+({{% resource_link 49e7dcea-0276-228c-c640-de924be6c213 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Competitive analysis
 Customer analysis I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_810f10_lec03))
+({{% resource_link c7a92efc-9e2f-6a97-c9e5-639d00026261 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +77,7 @@ Customer analysis I
 Customer analysis II and III: Value to the customer and customer lifetime value
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6MB]({{< baseurl >}}/resources/mit15_810f10_lec04))
+({{% resource_link 54ff05e4-d0a8-4992-f028-bff5c78e3709 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Developing market strategy
 Segmentation, targeting and positioning
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_810f10_lec06))
+({{% resource_link 1a2b48a5-22ca-752f-7517-135f697ebcd0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ STP-based strategy and IBS
 IBS, social responsibility and marketing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_810f10_lec09))
+({{% resource_link 665abd00-4e9e-e616-b9c4-4493c4ec6ac0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ IBS, social responsibility and marketing
 Branding
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 9.1MB]({{< baseurl >}}/resources/mit15_810f10_lec10)) (Courtesy of John Gerzema. Used with permission.)
+({{% resource_link 07bad41f-be07-3974-9f7e-986addde999f "PDF - 9.1MB" %}}) (Courtesy of John Gerzema. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +185,7 @@ Developing marketing strategy for innovation
 Product
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_810f10_lec12))
+({{% resource_link dd829fa1-0909-d935-47cc-929c54a3c920 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
